@@ -9,6 +9,7 @@ namespace Test._2
             Console.WriteLine("1. Omvandla från Celsius till Fahrenheit");
             Console.WriteLine("2. Omvandla från Fahrenheit till Celsius");
             string användarensval = Console.ReadLine();
+            Console.WriteLine();
 
 
             switch (användarensval)
